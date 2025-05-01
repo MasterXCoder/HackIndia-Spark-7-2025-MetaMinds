@@ -32,10 +32,10 @@ Unlike traditional tools that rely on rigid, pre-built models, **NeuroTrader** l
 ### 📸 Screenshots
 
 #### 🧩 App UI – Strategy Designer (App.tsx)
-![Strategy Designer Screenshot](screenshots/app1.png)
+![Strategy Designer Screenshot](screenshots/res1.png)
 
 #### 🧠 App UI – Model Settings Panel (App.tsx)
-![Settings Panel Screenshot](screenshots/app2.png)
+![Settings Panel Screenshot](screenshots/res2.png)
 
 #### 🐍 Backend – Python Logic Processing
 ![Python Backend Screenshot](screenshots/backend.png)
