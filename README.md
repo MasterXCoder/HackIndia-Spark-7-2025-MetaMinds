@@ -16,6 +16,19 @@ Unlike traditional tools that rely on rigid, pre-built models, **NeuroTrader** l
 
 ---
 
+### 📸 Screenshots
+
+#### 🧩 App UI – Strategy Designer (App.tsx)
+![Strategy Designer Screenshot](screenshots/res1.png)
+
+#### 🧠 App UI – Model Settings Panel (App.tsx)
+![Settings Panel Screenshot](screenshots/res2.png)
+
+#### 🐍 Backend – Python Logic Processing
+![Python Backend Screenshot](screenshots/backend.jpg)
+
+---
+
 ### ⚙️ How It Works
 
 1. **Design Your Strategy**  
@@ -26,21 +39,6 @@ Unlike traditional tools that rely on rigid, pre-built models, **NeuroTrader** l
 
 3. **Monetize**  
    If your strategy performs well, it becomes shareable. Let others invest through your model and earn from its success.
-
----
-
-### 📸 Screenshots
-
-#### 🧩 App UI – Strategy Designer (App.tsx)
-![Strategy Designer Screenshot](screenshots/app1.png)
-
-#### 🧠 App UI – Model Settings Panel (App.tsx)
-![Settings Panel Screenshot](screenshots/app2.png)
-
-#### 🐍 Backend – Python Logic Processing
-![Python Backend Screenshot](screenshots/backend.png)
-
-> _Place these images in a `/screenshots/` folder in your repo._
 
 ---
 
@@ -56,6 +54,4 @@ Unlike traditional tools that rely on rigid, pre-built models, **NeuroTrader** l
 ### 🛠️ Tech Stack
 
 - **Frontend**: React (TypeScript)
-- **Backend**: Python (FastAPI / Flask)
-- **AI Engine**: LLaMA 2 via Ollama
-- **Data**: Real
+- **Backend**: Python (FastAPI / tensorflow)
