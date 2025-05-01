@@ -25,7 +25,7 @@ Unlike traditional tools that rely on rigid, pre-built models, **NeuroTrader** l
 ![Settings Panel Screenshot](screenshots/res2.png)
 
 #### 🐍 Backend – Python Logic Processing
-![Python Backend Screenshot](screenshots/backend.png)
+![Python Backend Screenshot](screenshots/backend.jpg)
 
 ---
 
