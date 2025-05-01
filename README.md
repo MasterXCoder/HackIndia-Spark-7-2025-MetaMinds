@@ -14,6 +14,8 @@ Unlike traditional tools that rely on rigid, pre-built models, **NeuroTrader** l
 - Describe trading logic in natural language
 - Optionally embed Python code for deeper customization
 
+---
+
 ### 📸 Screenshots
 
 #### 🧩 App UI – Strategy Designer (App.tsx)
@@ -25,9 +27,6 @@ Unlike traditional tools that rely on rigid, pre-built models, **NeuroTrader** l
 #### 🐍 Backend – Python Logic Processing
 ![Python Backend Screenshot](screenshots/backend.png)
 
-> _Place these images in a `/screenshots/` folder in your repo._
-
----
 ---
 
 ### ⚙️ How It Works
