@@ -54,6 +54,4 @@ Unlike traditional tools that rely on rigid, pre-built models, **NeuroTrader** l
 ### 🛠️ Tech Stack
 
 - **Frontend**: React (TypeScript)
-- **Backend**: Python (FastAPI / Flask)
-- **AI Engine**: LLaMA 2 via Ollama
-- **Data**: Real
+- **Backend**: Python (FastAPI / tensorflow)
