@@ -14,21 +14,6 @@ Unlike traditional tools that rely on rigid, pre-built models, **NeuroTrader** l
 - Describe trading logic in natural language
 - Optionally embed Python code for deeper customization
 
----
-
-### ⚙️ How It Works
-
-1. **Design Your Strategy**  
-   Use an intuitive, drag-and-drop interface to build your AI model — visually and naturally.
-
-2. **Test With Real Market Data**  
-   NeuroTrader runs your strategy against real-time and historical market data.
-
-3. **Monetize**  
-   If your strategy performs well, it becomes shareable. Let others invest through your model and earn from its success.
-
----
-
 ### 📸 Screenshots
 
 #### 🧩 App UI – Strategy Designer (App.tsx)
@@ -41,6 +26,20 @@ Unlike traditional tools that rely on rigid, pre-built models, **NeuroTrader** l
 ![Python Backend Screenshot](screenshots/backend.png)
 
 > _Place these images in a `/screenshots/` folder in your repo._
+
+---
+---
+
+### ⚙️ How It Works
+
+1. **Design Your Strategy**  
+   Use an intuitive, drag-and-drop interface to build your AI model — visually and naturally.
+
+2. **Test With Real Market Data**  
+   NeuroTrader runs your strategy against real-time and historical market data.
+
+3. **Monetize**  
+   If your strategy performs well, it becomes shareable. Let others invest through your model and earn from its success.
 
 ---
 
